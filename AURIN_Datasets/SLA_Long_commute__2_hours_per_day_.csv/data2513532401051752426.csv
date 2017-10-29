@@ -1,0 +1,201 @@
+sla_code06, sla_name06, ci_high, se, ci_low, estimate, rse
+205353271,Hume (C) - Broadmeadows,null,null,null,null,100.8
+205353274,Hume (C) - Craigieburn,25.2,4.6,6.5,13.3,35
+205353275,Hume (C) - Sunbury,15.9,3.1,2.3,6.3,49.5
+205405713,Nillumbik (S) - South,20.4,3.4,6.9,12.1,27.8
+205405715,Nillumbik (S) - South-West,27.7,4.7,9,16.3,28.9
+205405718,Nillumbik (S) Bal,44,7.5,15,27.1,27.8
+205407071,Whittlesea (C) - North,32.7,5.6,10.6,19.4,29
+205407075,Whittlesea (C) - South-East,34.3,6.7,7.8,17.3,38.4
+205407076,Whittlesea (C) - South-West,29.2,5.2,8.6,16.5,31.4
+205607454,Yarra Ranges (S) - North,null,null,null,null,77
+205607456,Yarra Ranges (S) - Seville,null,null,null,null,57.7
+205650911,Bayside (C) - Brighton,32.2,6.4,6.6,15.5,41
+205650912,Bayside (C) - South,24.5,4.4,6.7,13.3,33.2
+205054601,Melbourne (C) - Inner,null,null,null,null,94.1
+205905344,Mornington P'sula (S) - South,33.6,6.7,6.7,16,42
+205054605,Melbourne (C) - S'bank-D'lands,null,null,null,null,97.9
+205054608,Melbourne (C) - Remainder,null,null,null,null,61.1
+205852171,Frankston (C) - East,37.4,7.7,6.8,17.2,44.5
+205852174,Frankston (C) - West,38.7,6,15.5,25.4,23.6
+205905341,Mornington P'sula (S) - East,null,null,null,null,54
+215106261,S. Grampians (S) - Hamilton,null,null,null,null,57.6
+215106264,S. Grampians (S) - Wannon,null,0,null,0,null
+215106265,S. Grampians (S) Bal,null,null,null,null,55
+205055901,Port Phillip (C) - St Kilda,null,null,null,null,58.4
+205905345,Mornington P'sula (S) - West,28.9,5.5,6.8,14.6,37.5
+210052751,Bellarine - Inner,null,null,null,null,73
+210052752,Corio - Inner,30.1,5.7,7.4,15.7,36.3
+205055902,Port Phillip (C) - West,null,null,null,null,69
+210106493,Surf Coast (S) - East,22.1,3.7,7.3,13,28.6
+210106495,Surf Coast (S) - West,43.2,8.2,11.5,23.9,34.3
+205301892,Darebin (C) - Preston,32.9,5.9,9.8,18.7,31.3
+205056351,Stonnington (C) - Prahran,null,null,null,null,64.2
+205057351,Yarra (C) - North,8.8,1.7,1.7,4,42
+205057352,Yarra (C) - Richmond,null,null,null,null,87.2
+205101181,Brimbank (C) - Keilor,30.1,4.4,12.6,19.9,22.2
+205101182,Brimbank (C) - Sunshine,25.2,4.8,5.6,12.4,38.8
+205103111,Hobsons Bay (C) - Altona,28.5,4.9,8.9,16.5,30
+205103112,Hobsons Bay (C) - Williamstown,19.8,3.8,3.9,9.1,42
+205104330,Maribyrnong (C),20.5,3.5,6.5,11.8,29.6
+205105063,Moonee Valley (C) - Essendon,11,2,2.4,5.3,38.5
+205105065,Moonee Valley (C) - West,11.5,2.2,1.7,4.6,48.6
+225102980,Hindmarsh (S),19.7,3.9,3,8,48.8
+225107631,Yarriambiack (S) - North,null,null,null,null,null
+225107632,Yarriambiack (S) - South,null,null,null,null,80.9
+230054781,Mildura (RC) - Pt A,null,null,null,null,64.4
+230101271,Buloke (S) - North,null,0,null,0,null
+230101272,Buloke (S) - South,null,null,null,null,100.3
+230104782,Mildura (RC) - Pt B,null,null,null,null,99.6
+230152250,Gannawarra (S),null,0,null,0,null
+240052831,Gr. Shepparton (C) - Pt A,7.3,1.4,1.2,3,45.6
+205204651,Melton (S) - East,41.4,5.5,19.9,29.5,18.8
+205204654,Melton (S) Bal,27.6,5.5,5,12.4,44.4
+205207261,Wyndham (C) - North,39.1,5.4,18.3,27.5,19.5
+205207264,Wyndham (C) - South,50.1,10,12.4,27.3,36.4
+205207267,Wyndham (C) - West,43.5,8.9,8.9,21.6,41.2
+210106080,Queenscliffe (B),null,null,null,null,71.1
+205255251,Moreland (C) - Brunswick,null,null,null,null,60.3
+205255252,Moreland (C) - Coburg,null,null,null,null,52
+205255253,Moreland (C) - North,null,null,null,null,62.6
+205300661,Banyule (C) - Heidelberg,26,4.3,8.7,15.5,28
+205300662,Banyule (C) - North,40.2,6.1,16.4,26.6,23.1
+205301891,Darebin (C) - Northcote,19.5,3.6,4.7,9.9,36.5
+205451111,Boroondara (C) - Camberwell N.,null,null,null,null,54.5
+205451112,Boroondara (C) - Camberwell S.,null,null,null,null,59.3
+205451113,Boroondara (C) - Hawthorn,null,0,null,0,null
+205451114,Boroondara (C) - Kew,null,null,null,null,100.6
+205504211,Manningham (C) - East,null,null,null,null,58.5
+205504214,Manningham (C) - West,30.9,4.6,12.7,20.3,22.8
+205504971,Monash (C) - South-West,48.1,9.9,10.1,24.4,40.8
+205504974,Monash (C) - Waverley East,41.4,7,14.4,25.6,27.3
+235105431,Mount Alexander (S) - C'maine,25.6,5.1,4.2,10.9,47.1
+235105434,Mount Alexander (S) Bal,18.3,3.4,4.1,8.9,38.4
+235204131,Macedon Ranges (S) - Kyneton,51.6,8.3,20,34.1,24.4
+235204134,Macedon Ranges (S) - Romsey,41.6,7,14.4,25.7,27.3
+235204135,Macedon Ranges (S) Bal,22.2,3.8,7,12.8,29.4
+205504975,Monash (C) - Waverley West,21,4.1,4,9.5,43
+205506981,Whitehorse (C) - Box Hill,null,null,null,null,57.5
+205506984,Whitehorse (C) - Nunawading E.,null,null,null,null,71.2
+205506985,Whitehorse (C) - Nunawading W.,30.6,6.2,5.4,13.7,45
+205553672,Knox (C) - North-East,19.3,3.6,4.4,9.5,38.3
+205553673,Knox (C) - North-West,35.5,7.1,7.2,17.1,41.5
+205553674,Knox (C) - South,34,6.5,8.4,17.9,36.1
+205554411,Maroondah (C) - Croydon,23.7,4.2,6.6,12.9,32.8
+205554412,Maroondah (C) - Ringwood,null,null,null,null,53.6
+205607451,Yarra Ranges (S) - Central,null,null,null,null,68.6
+205607452,Yarra Ranges (S) - Dandenongs,null,null,null,null,62.6
+205607453,Yarra Ranges (S) - Lilydale,37.2,6.1,13.4,23.3,26.2
+205652311,Glen Eira (C) - Caulfield,21.8,4.2,4.3,10.1,41.6
+240101371,Campaspe (S) - Echuca,null,null,null,null,70.8
+240101374,Campaspe (S) - Kyabram,null,null,null,null,71.4
+240101375,Campaspe (S) - Rochester,null,null,null,null,100.2
+205652314,Glen Eira (C) - South,null,null,null,null,50.4
+205653431,Kingston (C) - North,23.5,3.8,8.2,14.2,27.1
+205653434,Kingston (C) - South,27,5.1,6.5,13.8,36.8
+205656352,Stonnington (C) - Malvern,null,null,null,null,53.6
+205752671,Gr. Dandenong (C) - Dandenong,null,null,null,null,59.8
+205752674,Gr. Dandenong (C) Bal,20.4,3.6,5.6,11,33.2
+205801452,Cardinia (S) - North,25.4,4.9,5.4,12.2,40.2
+205801453,Cardinia (S) - Pakenham,38.3,6.8,11.8,22.4,30.4
+205801454,Cardinia (S) - South,null,0,null,0,null
+205801612,Casey (C) - Berwick,26.1,3.8,11.2,17.5,21.6
+240101376,Campaspe (S) - South,null,0,null,0,null
+240102834,Gr. Shepparton (C) - Pt B East,null,null,null,null,null
+240102835,Gr. Shepparton (C) - Pt B West,null,0,null,0,null
+240104901,Moira (S) - East,null,null,null,null,58
+240104904,Moira (S) - West,null,null,null,null,75.6
+240151011,Benalla (RC) - Benalla,null,null,null,null,100.2
+240151014,Benalla (RC) Bal,null,null,null,null,69.9
+240154250,Mansfield (S),12.1,2.3,2.6,5.7,39.9
+240156430,Strathbogie (S),null,null,null,null,50.4
+240204851,Mitchell (S) - North,null,null,null,null,50
+240204854,Mitchell (S) - South,26.3,4.3,9.2,15.9,27.1
+240205621,Murrindindi (S) - East,15.6,2.9,3.7,7.8,37
+240205622,Murrindindi (S) - West,39,7,11.8,22.7,30.8
+245053351,Indigo (S) - Pt A,null,null,null,null,70.7
+245056671,Towong (S) - Pt A,null,null,null,null,71
+245057170,Wodonga (RC),null,null,null,null,100.5
+245103352,Indigo (S) - Pt B,null,0,null,0,null
+245106701,Wangaratta (RC) - Central,null,null,null,null,100.7
+245106704,Wangaratta (RC) - North,null,null,null,null,100.7
+245106705,Wangaratta (RC) - South,null,null,null,null,72.2
+245150111,Alpine (S) - East,26.1,5.3,4,10.8,48.8
+245150112,Alpine (S) - West,null,null,null,null,57.8
+205801613,Casey (C) - Cranbourne,32,5.5,10.3,18.8,29.2
+245156672,Towong (S) - Pt B,17.3,3.3,3.7,8.2,39.5
+205801616,Casey (C) - Hallam,28.8,5.4,7.1,15,36.1
+205801618,Casey (C) - South,null,null,null,null,99.1
+210052753,Geelong,null,null,null,null,98.4
+210052754,Geelong West,null,0,null,0,null
+210052755,Newtown,null,null,null,null,72.5
+210052756,South Barwon - Inner,null,null,null,null,74
+210102757,Greater Geelong (C) - Pt B,40.2,7.8,9.9,21.4,36.3
+210151751,Colac-Otway (S) - Colac,null,null,null,null,59
+210151754,Colac-Otway (S) - North,null,null,null,null,99.9
+210151755,Colac-Otway (S) - South,null,0,null,0,null
+210152491,Golden Plains (S) - North-West,13,2.5,2.1,5.4,46.4
+210152492,Golden Plains (S) - South-East,null,null,null,null,53.1
+210152758,Greater Geelong (C) - Pt C,null,null,null,null,null
+215016730,Warrnambool (C),null,null,null,null,56.8
+215051831,Corangamite (S) - North,null,null,null,null,60.4
+215051832,Corangamite (S) - South,null,null,null,null,71.8
+215055491,Moyne (S) - North-East,null,null,null,null,97.9
+215055493,Moyne (S) - North-West,null,null,null,null,99.6
+215055496,Moyne (S) - South,null,null,null,null,56.1
+255053818,Latrobe (C) Bal,null,null,null,null,null
+255100834,Baw Baw (S) - Pt B East,null,null,null,null,95.2
+255100835,Baw Baw (S) - Pt B West,21.1,3.6,6.5,12,30.2
+255107458,Yarra Ranges (S) - Pt B,null,null,null,null,null
+255200741,Bass Coast (S) - Phillip Is.,null,null,null,null,65.8
+255200744,Bass Coast (S) Bal,15.7,3.1,2.4,6.4,48.1
+255206171,South Gippsland (S) - Central,null,null,null,null,59.9
+255206174,South Gippsland (S) - East,null,0,null,0,null
+255206175,South Gippsland (S) - West,null,null,null,null,54.6
+215102411,Glenelg (S) - Heywood,null,null,null,null,100.5
+215102412,Glenelg (S) - North,null,0,null,0,null
+215102413,Glenelg (S) - Portland,null,null,null,null,100.5
+220050571,Ballarat (C) - Central,5.6,1,1.5,2.9,33.8
+220050572,Ballarat (C) - Inner North,10.3,1.8,2.7,5.3,34.6
+220050573,Ballarat (C) - North,null,null,null,null,null
+220050574,Ballarat (C) - South,12.1,2,4,7,28.3
+220102911,Hepburn (S) - East,21.9,4.3,4,9.7,44.1
+220102912,Hepburn (S) - West,16.5,3.2,2.4,6.5,49.8
+220105151,Moorabool (S) - Bacchus Marsh,32,4.6,14.1,21.7,21.1
+220105154,Moorabool (S) - Ballan,44.2,8.7,10.7,23.5,36.9
+220105155,Moorabool (S) - West,null,0,null,0,null
+220150260,Ararat (RC),null,null,null,null,52.1
+220155991,Pyrenees (S) - North,null,null,null,null,68.8
+220155994,Pyrenees (S) - South,null,null,null,null,79
+225053191,Horsham (RC) - Central,null,null,null,null,72
+225053194,Horsham (RC) Bal,null,null,null,null,100.3
+225055811,N. Grampians (S) - St Arnaud,20.1,3.9,3.5,8.8,44.8
+225055814,N. Grampians (S) - Stawell,null,null,null,null,100.3
+225056890,West Wimmera (S),null,null,null,null,70.9
+230156611,Swan Hill (RC) - Central,null,null,null,null,72.1
+230156614,Swan Hill (RC) - Robinvale,null,0,null,0,null
+230156616,Swan Hill (RC) Bal,null,null,null,null,51.2
+235052621,Gr. Bendigo (C) - Central,null,null,null,null,100.3
+235052622,Gr. Bendigo (C) - Eaglehawk,null,0,null,0,null
+235052623,Gr. Bendigo (C) - Inner East,null,null,null,null,99.2
+235052624,Gr. Bendigo (C) - Inner North,null,0,null,0,null
+235052625,Gr. Bendigo (C) - Inner West,null,0,null,0,null
+235052626,Gr. Bendigo (C) - S'saye,null,0,null,0,null
+235101671,C. Goldfields (S) - M'borough,null,null,null,null,54.7
+235101674,C. Goldfields (S) Bal,null,null,null,null,56.2
+235102628,Gr. Bendigo (C) - Pt B,null,null,null,null,70.3
+235103943,Loddon (S) - North,null,null,null,null,100.6
+235103945,Loddon (S) - South,null,null,null,null,71.6
+250052111,E. Gippsland (S) - Bairnsdale,null,null,null,null,77
+250052113,E. Gippsland (S) - Orbost,null,null,null,null,59
+250052115,E. Gippsland (S) - South-West,null,null,null,null,102.4
+250052117,E. Gippsland (S) Bal,null,null,null,null,null
+250156811,Wellington (S) - Alberton,null,null,null,null,68.9
+250156812,Wellington (S) - Avon,null,0,null,0,null
+250156813,Wellington (S) - Maffra,null,null,null,null,99.6
+250156814,Wellington (S) - Rosedale,null,null,null,null,99.4
+250156815,Wellington (S) - Sale,null,null,null,null,74.1
+255050831,Baw Baw (S) - Pt A,null,0,null,0,null
+255053811,Latrobe (C) - Moe,null,0,null,0,null
+255053814,Latrobe (C) - Morwell,null,0,null,0,null
+255053815,Latrobe (C) - Traralgon,null,null,null,null,51.1
